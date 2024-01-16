@@ -1,0 +1,6 @@
+@uipmanagement.Api_HostAddress = http://localhost:5249
+
+GET {{uipmanagement.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
